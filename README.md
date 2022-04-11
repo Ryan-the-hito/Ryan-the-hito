@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryan-the-Prince
+- 👋 Hi, I’m @Ryan-the-hito
 - 👀 I’m interested in Political Science.
 - 🌱 I’m currently learning R and Python.
 
