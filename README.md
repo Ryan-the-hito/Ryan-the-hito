@@ -2,7 +2,7 @@
 - 👀 I’m interested in Political Science.
 - 🌱 I’m currently learning R and Python.
 - The projects in progress now:
--  Avocado🥑
+  -  Avocado🥑
 
 <!---
 Ryan-the-Prince/Ryan-the-Prince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
