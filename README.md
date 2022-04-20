@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R and Python.
 - The projects in progress now:
   -  Avocado🥑
-  -  ...
+  -  ...（more to come）
 
 <!---
 Ryan-the-hito/Ryan-the-hito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
