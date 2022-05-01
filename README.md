@@ -4,6 +4,8 @@
 - The projects in progress now:
   -  Avocado🥑
   -  ...(more to come)
+- Contact: 
+  - dpye2hmpivcwqrvg@hideaddress.net
 
 <!---
 Ryan-the-hito/Ryan-the-hito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
