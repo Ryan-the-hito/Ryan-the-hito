@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning R and Python.
 - The projects in progress now:
   -  Avocado🥑
+  -  Lemon🍋
   -  ...(more to come)
 - Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
