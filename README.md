@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-the-hito
 - 👀 I’m interested in Political Science.
-- 🌱 I’m currently learning R and Python.
+- 🌱 I’m currently learning R, JavaScript and Python.
 - The projects in progress now:
   -  Avocado🥑
   -  Lemon🍋
