@@ -4,6 +4,8 @@
 - The projects in progress now:
   -  Avocado🥑
   -  Lemon🍋
+  -  Strawberry🍓
+  -  Mushroom🍄
   -  ...(more to come)
 - Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
