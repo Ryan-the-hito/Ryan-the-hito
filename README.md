@@ -4,6 +4,7 @@
 - The projects in progress now:
   -  Avocado🥑
   -  Lemon🍋
+  -  Watermelon🍉
   -  Strawberry🍓
   -  Mushroom🍄
   -  ...(more to come)
