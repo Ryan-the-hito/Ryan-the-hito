@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Ryan-the-hito
-- 👀 I’m interested in Political Science.
+- 👀 I major in Political Science, and I’m also interested in Political Philosophy.
 - 🌱 I’m currently learning R, JavaScript and Python.
 - The projects in progress now:
   -  Avocado🥑
   -  Lemon🍋
   -  Watermelon🍉
   -  Strawberry🍓
+  -  Orange🍊
   -  Mushroom🍄
   -  ...(more to come)
 - Contact: 
