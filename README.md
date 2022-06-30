@@ -5,6 +5,7 @@
   -  Avocado🥑
   -  Lemon🍋
   -  Watermelon🍉
+  -  Pineapple🍍
   -  Strawberry🍓
   -  Orange🍊
   -  Mushroom🍄
