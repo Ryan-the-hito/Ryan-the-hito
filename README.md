@@ -8,7 +8,7 @@
   -  Pineapple🍍
   -  Strawberry🍓
   -  Orange🍊
-  -  Mushroom🍄
+  -  Tomato🍅
   -  ...(more to come)
 - Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
