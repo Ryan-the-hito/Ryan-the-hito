@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryan-the-hito
-- 👀 I major in Political Science, and I’m also interested in Political Philosophy.
+- 👀 I major in Political Science with keen eyes on Diplomacy, and will explore in Political Philosophy.
 - 🌱 I’m currently learning R, JavaScript and Python.
 - The projects in progress now:
   -  Avocado🥑
