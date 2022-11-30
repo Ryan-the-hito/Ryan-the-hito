@@ -8,7 +8,7 @@
   -  Pineapple🍍
   -  Strawberry🍓
   -  Orange🍊
-  -  Tomato🍅
+  -  Paprika🌶️
   -  ...(more to come)
 - 📬 Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
