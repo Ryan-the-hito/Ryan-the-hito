@@ -9,6 +9,7 @@
   -  Strawberry🍓
   -  Orange🍊
   -  Paprika🌶️
+  -  Cherry🍒
   -  ...(more to come)
 - 📬 Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
