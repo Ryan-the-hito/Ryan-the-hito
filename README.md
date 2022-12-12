@@ -17,6 +17,8 @@
   - 中文
   - English
   - 日本語
+- 🖌️ Let's draw an avocado on Everyonedraw!
+  - https://everyonedraw.com/19/905/52
 
 <!---
 Ryan-the-hito/Ryan-the-hito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
