@@ -10,6 +10,7 @@
   -  Orange🍊
   -  Paprika🌶️
   -  Cherry🍒
+  -  Olive🫒
   -  ...(more to come)
 - 📬 Contact: 
   - dpye2hmpivcwqrvg@hideaddress.net
