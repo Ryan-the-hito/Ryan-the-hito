@@ -13,6 +13,7 @@
   -  Olive🫒
   -  Broccoli🥦
   -  Tomato🍅
+  -  Banana🍌
   -  ...(more to come)
 - 📬 Contact: 
   - sweeter.02.implant@icloud.com
