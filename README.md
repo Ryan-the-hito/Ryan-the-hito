@@ -19,7 +19,7 @@
   -  ...(more to come)
 - 📂 Other projects of mine:
   - [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
-  - [XiaoheSougou](https://github.com/Ryan-the-hito/XiaoheSougou)🐦: Full Form-based Character Code for Xiaohe Chinese Input Method
+  - [XiaoheSougou](https://github.com/Ryan-the-hito/XiaoheSougou)🐦: A Full Form-based Character Code Bundle for Xiaohe Chinese Input Method
 - 📬 Contact: 
   - sweeter.02.implant@icloud.com
 - 🅰️ Languages:
