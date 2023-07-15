@@ -15,6 +15,7 @@
   -  Tomato🍅
   -  Banana🍌
   -  Cactus🌵
+  -  Daisy🌼
   -  ...(more to come)
 - 📬 Contact: 
   - sweeter.02.implant@icloud.com
