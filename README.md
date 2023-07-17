@@ -28,6 +28,8 @@
   - 日本語
 - 🖌️ Let's draw an avocado on Everyonedraw!
   - https://everyonedraw.com/19/905/52
+- 🗒 Quote:
+  - “Light comes from some spherical fruits called by the name of lamps. There are two, running transversally, in each hexagon. The light they emit is insufficient, incessant.” 
 
 <!---
 Ryan-the-hito/Ryan-the-hito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
