@@ -20,6 +20,7 @@
 - 📂 Other projects of mine:
   - [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
   - [XiaoheSougou](https://github.com/Ryan-the-hito/XiaoheSougou)🐦: A Full Form-based Character Code Bundle for Xiaohe Chinese Input Method
+  - [DesktopSet](https://github.com/Ryan-the-hito/DesktopSet)🖼️: My Desktop Widgets and Wallpapers
 - 📬 Contact: 
   - sweeter.02.implant@icloud.com
 - 🅰️ Languages:
