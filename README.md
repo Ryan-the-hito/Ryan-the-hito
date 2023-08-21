@@ -22,6 +22,7 @@
   - [XiaoheSougou](https://github.com/Ryan-the-hito/XiaoheSougou)🐦: A Full Form-based Character Code Bundle for Xiaohe Chinese Input Method
   - [DesktopSet](https://github.com/Ryan-the-hito/DesktopSet)🖼️: My Desktop Widgets and Wallpapers
   - [TouchBarSet](https://github.com/Ryan-the-hito/TouchBarSet)👌: A Config Set for Touch Bar on My M1 Mac
+  - [BFSU-paper](https://github.com/Ryan-the-hito/BFSU-paper)🖇️: BFSU Master Thesis Templates in LaTeX and Word
 - 📬 Contact: 
   - sweeter.02.implant@icloud.com
 - 🅰️ Languages:
