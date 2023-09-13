@@ -32,16 +32,16 @@
 - 🔖 A Notion webpage introducing my apps:
 	- [Ryan’s orchard](https://sun-feeling-4b6.notion.site/Ryan-69ee627c6f24468785450e61288f2c71?pvs=4)
 - 😀 There are some emoji sets I created for Telegram and WeChat:
-	- Ryan-the-hedgehog-1:
-          <p align=“justify">
-          	<img src="https://i.imgur.com/8XQdNd8.png" width=400 />
-          </p>
+	- Ryan-the-hedgehog-1:  
 		- For [Telegram](https://t.me/addstickers/Ryanthehedgehog)
 		- For [WeChat](https://w.url.cn/s/AOXk2fa)
   	- The second and third sets are coming...
 - 🖌️ Let's draw an avocado on [Everyonedraw](https://everyonedraw.com/19/905/52)!
 - 🗒 Quote:
-	- “Light comes from some spherical fruits called by the name of lamps. There are two, running transversally, in each hexagon. The light they emit is insufficient, incessant.” 
+	- “Light comes from some spherical fruits called by the name of lamps. There are two, running transversally, in each hexagon. The light they emit is insufficient, incessant.”
+<p align=“justify">
+	<img src="https://i.imgur.com/8XQdNd8.png" width=400 />
+</p>
 
 <!---
 Ryan-the-hito/Ryan-the-hito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
