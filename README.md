@@ -40,7 +40,7 @@
 - 🗒 Quote:
 	- “Light comes from some spherical fruits called by the name of lamps. There are two, running transversally, in each hexagon. The light they emit is insufficient, incessant.”
 <p align=“justify">
-	<img src="https://i.imgur.com/8XQdNd8.png" width=400 />
+	<img src="https://i.imgur.com/8XQdNd8.png"/>
 </p>
 
 <!---
