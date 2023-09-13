@@ -33,8 +33,8 @@
 	- [Ryan’s orchard](https://sun-feeling-4b6.notion.site/Ryan-69ee627c6f24468785450e61288f2c71?pvs=4)
 - 😀 There are some emoji sets I created for Telegram and WeChat:
 	- Ryan-the-hedgehog-1:
-          <p align="center">
-          	<img src="https://i.imgur.com/8XQdNd8.png" width=240 />
+          <p align=“left">
+          	<img src="https://i.imgur.com/8XQdNd8.png" width=400 />
           </p>
 		- For [Telegram](https://t.me/addstickers/Ryanthehedgehog)
 		- For [WeChat](https://w.url.cn/s/AOXk2fa)
