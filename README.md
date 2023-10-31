@@ -16,6 +16,7 @@
 	- [Banana](https://github.com/Ryan-the-hito/Banana)🍌: Localized Bookmark Manager/Archiver + ChatGPT
 	- [Cactus](https://github.com/Ryan-the-hito/Cactus)🌵: A macOS App to Extract Texts from Links
 	- [Daisy](https://github.com/Ryan-the-hito/Daisy)🌼: Ambient Light Reminder and Auto-switcher
+    - [Mango](https://github.com/Ryan-the-hito/Mango)🥭Mango: Emergent Email Alarmer
 	- ...(more to come)
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
