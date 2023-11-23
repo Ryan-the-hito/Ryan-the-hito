@@ -2,7 +2,7 @@
 - 👀 I major in Political Science with keen eyes on Diplomacy, and will explore in Political Philosophy.
 - 🌱 I’m currently learning R, JavaScript and Python.
 - ❓ For Q&A of all my apps:
-	- [Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common
+	- **[Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common**
 - 📂 My software projects:
 	- [Avocado](https://github.com/Ryan-the-hito/Avocado)🥑: A Text Tool for Better Typesetting
 	- [Lemon](https://github.com/Ryan-the-hito/Lemon)🍋: A Web Extension Generator for Cleaner Chinese
