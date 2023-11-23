@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Ryan-the-hito
 - 👀 I major in Political Science with keen eyes on Diplomacy, and will explore in Political Philosophy.
 - 🌱 I’m currently learning R, JavaScript and Python.
+- ❓ For Q&A of all my apps:
+	- [Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common
 - 📂 My software projects:
 	- [Avocado](https://github.com/Ryan-the-hito/Avocado)🥑: A Text Tool for Better Typesetting
 	- [Lemon](https://github.com/Ryan-the-hito/Lemon)🍋: A Web Extension Generator for Cleaner Chinese
-	- [Watermelon](https://github.com/Ryan-the-hito/Watermelon)🍉: A Markdown-based Transferring Tool for Bionic Reading
+	- [Watermelon](https://github.com/Ryan-the-hito/Watermelon)🍉: A Markdown-based Tool for Bionic Reading
 	- [Pineapple](https://github.com/Ryan-the-hito/Pineapple)🍍: A Simple and Blank Shield to Cover Unwanted Items
 	- [Strawberry](https://github.com/Ryan-the-hito/Strawberry)🍓: A Tool to Gather Inspirations when Reading Literature (Markdown→LaTeX)
 	- [Orange](https://github.com/Ryan-the-hito/Orange)🍊: Auto-aggregated RSS News Center
