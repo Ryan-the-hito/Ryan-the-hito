@@ -5,11 +5,11 @@
 	- **[Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common**
 - 🥹 You can sponsor me [HERE](https://www.buymeacoffee.com/ryanthehito): YES! IT’S BIG!! IT’S HUGE!!!👀🥰
 
-<div align=center>
+<p align=center>
   <a href="https://www.buymeacoffee.com/ryanthehito">
     <img src="https://i.imgur.com/D4KakEu.png" width=“300">
   </a>
-</div>
+</p>
 
 - 📂 My software projects: They may help to solve your problem if you have the exact need.🧰💪
 	- [Avocado](https://github.com/Ryan-the-hito/Avocado)🥑: A Text Tool for Better Typesetting
