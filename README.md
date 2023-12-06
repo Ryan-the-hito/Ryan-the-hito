@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning R, JavaScript and Python.
 - ❓ For Q&A of all my apps:
 	- **[Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common**
+- 🥹 You can sponsor me [HERE](https://www.buymeacoffee.com/ryanthehito):
+[![D4KakEu](https://i.imgur.com/D4KakEu.png)](https://www.buymeacoffee.com/ryanthehito)
 - 📂 My software projects:
 	- [Avocado](https://github.com/Ryan-the-hito/Avocado)🥑: A Text Tool for Better Typesetting
 	- [Lemon](https://github.com/Ryan-the-hito/Lemon)🍋: A Web Extension Generator for Cleaner Chinese
