@@ -22,6 +22,7 @@
 	- [Daisy](https://github.com/Ryan-the-hito/Daisy)🌼: Ambient Light Reminder and Auto-switcher
     - [Mango](https://github.com/Ryan-the-hito/Mango)🥭: Emergent Email Alarm
     - [Coconut](https://github.com/Ryan-the-hito/Coconut)🥥: Finder-iCloud Photo Synchronizer
+    - [Grape](https://github.com/Ryan-the-hito/Grape)🍇: Photo&Music Picker for Finder Dialog Box
 	- ...(more to come)
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
