@@ -23,7 +23,7 @@
     - [Mango](https://github.com/Ryan-the-hito/Mango)🥭: Emergent Email Alarm
     - [Coconut](https://github.com/Ryan-the-hito/Coconut)🥥: Finder-iCloud Photo Synchronizer
     - [Grape](https://github.com/Ryan-the-hito/Grape)🍇: Photo&Music Picker for Finder Dialog Box
-    - [Kiwi](https://github.com/Ryan-the-hito/Kiwi)🥝: Kiwi: Tomato Clock at Your Dock
+    - [Kiwi](https://github.com/Ryan-the-hito/Kiwi)🥝: Kiwi: Pomodoro Timer at Your Dock
 	- ...(more to come)
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
