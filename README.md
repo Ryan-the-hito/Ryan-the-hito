@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-the-hito
 - 👀 I major in Political Science with keen eyes on Diplomacy, and will explore in Political Philosophy.
-- 🌱 I’m currently learning R, JavaScript and Python.
+- 🌱 I’m currently learning JavaScript and Python.
 - ❓ For Q&A of all my apps:
 	- **[Q&A](https://github.com/Ryan-the-hito/Q-A)❓: See if you have any problem in common**
 - 🥹 You can sponsor me [HERE⬇](https://www.buymeacoffee.com/ryanthehito): YES! IT’S BIG!! IT’S HUGE!!!👀🥰
