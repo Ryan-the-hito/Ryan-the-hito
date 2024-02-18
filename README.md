@@ -43,7 +43,7 @@
 	- 中文(Mother tongue)
 	- English(C1 level: TEM-8 Excellent; IELTS 7.0)
 	- 日本語(N1)
-    - 한국말(Still learning)
+    - 한국어(Still learning)
 - 🔖 A Notion webpage introducing my apps:
 	- [Ryan’s orchard](https://sun-feeling-4b6.notion.site/Ryan-69ee627c6f24468785450e61288f2c71?pvs=4)
 - 😀 There are some emoji sets I created for Telegram and WeChat:
