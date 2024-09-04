@@ -54,6 +54,9 @@
 - 🖌️ Let's draw an avocado on [Everyonedraw](https://everyonedraw.com/19/905/52)!
 - 🗒 Quote:
 	- “Light comes from some spherical fruits called by the name of lamps. There are two, running transversally, in each hexagon. The light they emit is insufficient, incessant.”
+<p style="text-align: center;">
+  这是居中的文本
+</p>
 <p align=“center">
 	<img src="https://i.imgur.com/2BsY78N.png"/>
 </p>
