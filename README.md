@@ -24,6 +24,8 @@
 	- [Coconut](https://github.com/Ryan-the-hito/Coconut)🥥: Finder-iCloud Photo Synchronizer
 	- [Grape](https://github.com/Ryan-the-hito/Grape)🍇: Photo&Music Picker for Finder Dialog Box
 	- [Kiwi](https://github.com/Ryan-the-hito/Kiwi)🥝: Pomodoro Timer at Your Dock
+	- [Walnut](https://github.com/Ryan-the-hito/Walnut)🌰: Earthquake Alert on macOS
+	- [Shameplant](https://github.com/Ryan-the-hito/Shameplant)🌿: Dynamically Hide Your Dock
 	- …(more to come)
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
