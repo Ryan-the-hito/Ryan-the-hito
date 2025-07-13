@@ -26,6 +26,7 @@
 	- [Kiwi](https://github.com/Ryan-the-hito/Kiwi)🥝: Pomodoro Timer at Your Dock
 	- [Walnut](https://github.com/Ryan-the-hito/Walnut)🌰: Earthquake Alert on macOS
 	- [Shameplant](https://github.com/Ryan-the-hito/Shameplant)🌿: Dynamically Hide Your Dock
+	- [Hazelnut Tags](https://github.com/Ryan-the-hito/Hazelnut)🌰: Easily Tagging Files at Your Fingertips
 	- …(more to come)
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
