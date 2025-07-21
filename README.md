@@ -31,6 +31,7 @@
 - 📂 Other projects of mine:
 	- [FruitFork](https://github.com/Ryan-the-hito/FruitFork)🍴: My Handwritten Font
 	- [XiaoheSougou](https://github.com/Ryan-the-hito/XiaoheSougou)🐦: A Full Form-based Character Code Bundle for Xiaohe Chinese Input Method
+	- [XiaoheRime](https://github.com/Ryan-the-hito/XiaoheRime)🐦: A Character Code Bundle for Xiaohe Chinese Input Method on Rime
 	- [DesktopSet](https://github.com/Ryan-the-hito/DesktopSet)🖼️: My Desktop Widgets and Wallpapers
 	- [TouchBarSet](https://github.com/Ryan-the-hito/TouchBarSet)👌: A Config Set for Touch Bar on My M1 Mac
 	- [BFSU-paper](https://github.com/Ryan-the-hito/BFSU-paper)🖇️: BFSU Master Thesis Templates in LaTeX and Word
